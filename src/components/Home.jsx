@@ -76,9 +76,9 @@ const Home = () => {
   <section className="bg-purple mt-5">
   <div className="container ">
       <div className="row">
-        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4"><img src={Mbtoken} alt="" /></div>
-        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4" ><img src={Metamask} alt=""/></div>
-        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4"><img src={Opensea} alt=""/></div>
+        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4"><img src={Mbtoken} alt="mbtoken" /></div>
+        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4" ><img src={Metamask} alt="metamask"/></div>
+        <div className="col-md-4 lg-4 sm-12 mb-4 mt-4"><img src={Opensea} alt="opensea"/></div>
       </div>
       
     </div>
