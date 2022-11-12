@@ -68,8 +68,8 @@ const Home = () => {
           <img src={Second} className="column-img" alt=""/>
         </div>
         <div className="column">
-          <img src={Third} alt="" className="column-img" style={{marginBottom:'6px'}}/>
-          <img src={Fourth} alt="" className="column-img"/>
+          <img src={Third} alt="" className="column-img " style={{marginBottom:'6px'}}/>
+          <img src={Fourth} alt="" className="column-img mb-3"/>
         </div> 
       </div>            
     </div>
