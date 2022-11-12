@@ -4,13 +4,10 @@
     padding: 0;
     overflow: hidden;
     font-size: 20px;
-    /* background-color: #333; */
-    /*overflow-x:scroll; */
   }
   
   .li {
     float: left;
-    
   }
   
   .li a {
