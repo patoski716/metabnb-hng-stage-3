@@ -4,7 +4,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import { Link } from "react-router-dom";
 import Logo from '../images/Vector.png'
-import Home from '../images/Home.png'
 import Modal from 'react-bootstrap/Modal';
 import Vector1 from '../images/Vector1.png'
 import Meta from '../images/meta.png'
@@ -21,7 +20,7 @@ const Header = () => {
     <Fragment>
       <Navbar collapseOnSelect expand="lg" bg="white"  variant="dark" className='sticky-top'>
         <Container>
-          <Navbar.Brand href="/"><span><img src={Home} alt="" /></span><span><img src={Logo} alt="" /></span></Navbar.Brand>
+          <Navbar.Brand href="/"><span><img src={Logo} alt="" /></span></Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" className="bg-menu"
           />
           <Navbar.Collapse id="responsive-navbar-nav">
