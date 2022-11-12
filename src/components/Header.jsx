@@ -5,7 +5,6 @@ import Navbar from 'react-bootstrap/Navbar';
 import { Link } from "react-router-dom";
 import Logo from '../images/Vector.png'
 import Home from '../images/Home.png'
-
 import Modal from 'react-bootstrap/Modal';
 import Vector1 from '../images/Vector1.png'
 import Meta from '../images/meta.png'
