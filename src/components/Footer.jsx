@@ -21,7 +21,7 @@ const Footer = () => {
                             &copy; 2022 Metabnb
                             </div>
                         </div>
-                        <div className="col-md-3 text-right " style={{marginTop:"20px"}}>
+                        <div className="col-md-3 text-right" style={{marginTop:"20px"}}>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Community</p>
                             <p style={{fontWidth:'bolder',fontSize:'14px'}}>NFT</p>
                             <p style={{fontWidth:'bolder',fontSize:'14px'}}>Tokens</p>
@@ -31,7 +31,7 @@ const Footer = () => {
 
                         </div>
 
-                        <div className="col-md-3 text-right " style={{marginTop:"20px"}}>
+                        <div className="col-md-3 text-right" style={{marginTop:"20px"}}>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Places</p>
                             <p style={{fontWidth:'bolder',fontSize:'14px'}}>Castle</p>
                             <p style={{fontWidth:'bolder',fontSize:'14px'}}>Farms </p>
@@ -41,7 +41,7 @@ const Footer = () => {
 
                         </div>
 
-                        <div className="col-md-3 text-right " style={{marginTop:"20px"}}>
+                        <div className="col-md-3 text-right" style={{marginTop:"20px"}}>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>About us</p>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Road map</p>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Creators</p>
