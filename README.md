@@ -1,5 +1,5 @@
 # Metabnb
-### metabnb provide you access to luxury and affordable houses in the metaverse
+### Metabnb provide you access to luxury and affordable houses in the metaverse
 
 <div align="center">
 
