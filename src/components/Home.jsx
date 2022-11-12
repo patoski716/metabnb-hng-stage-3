@@ -4,8 +4,8 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import First from '../images/image1.png';
 import Second from '../images/image2.png';
-import Third from '../images/Frame 9.png';
-import Fourth from '../images/Frame 10.png';
+import Third from '../images/image 3.png';
+import Fourth from '../images/image 5.png';
 
 import Mbtoken from '../images/Group59537.svg';
 import Metamask from '../images/Group4040.svg';
