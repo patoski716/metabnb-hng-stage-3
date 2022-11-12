@@ -4,6 +4,9 @@ import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 import First from '../images/image1.png';
 import Second from '../images/image2.png';
+import Third from '../images/Frame 9.png';
+import Fourth from '../images/Frame 10.png';
+
 import Mbtoken from '../images/Group59537.svg';
 import Metamask from '../images/Group4040.svg';
 import Opensea from '../images/Frame4041.svg';
@@ -65,8 +68,8 @@ const Home = () => {
           <img src={Second} className="column-img" alt=""/>
         </div>
         <div className="column">
-          <img src={First} alt="" className="column-img" style={{marginBottom:'6px'}}/>
-          <img src={Second} alt="" className="column-img"/>
+          <img src={Third} alt="" className="column-img" style={{marginBottom:'6px'}}/>
+          <img src={Fourth} alt="" className="column-img"/>
         </div> 
       </div>            
     </div>
