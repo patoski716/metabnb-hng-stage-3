@@ -56,7 +56,7 @@ const category = [
 
 const Place = () => {
   return (
-    <div className='mt-5 pt-2'>
+    <div className='mt-5 pt-3'>
         <ul className="nav">
             <div className="container">
             {category.map((post)=>
