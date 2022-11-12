@@ -12,7 +12,7 @@ const Footer = () => {
                         <div className="col-md-6 col-lg-3  text-right" style={{marginTop:"20px"}}>
                             
                                 <img src={Logo} alt="" />
-                            <div style={{marginTop:"120px",marginBottom:"100px",fontSize:'10px'}}>
+                            <div style={{marginTop:"120px",marginBottom:"100px",fontSize:'7px'}}>
                                 <span className='mx-3 text-white'><i className="fab fa-facebook fa-3x"></i></span>
                                 <span className='mx-3 text-white'><i className="fab fa-instagram fa-3x"></i></span>
                                 <span className='mx-3 text-white'><i className="fab fa-twitter fa-3x"></i></span>
