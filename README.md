@@ -1,11 +1,7 @@
 # Metabnb
 ### Metabnb provide you access to luxury and affordable houses in the metaverse
 
-<div align="center">
 
-<img src="showcase.png" width="800px"/>
-
-</div>
 
 ## Clone the repository using the command below :
 
@@ -35,3 +31,10 @@ npm start
 ```
 npm run build
 ```
+### App preview
+
+<div align="center">
+
+<img src="showcase.png" width="800px"/>
+
+</div>
