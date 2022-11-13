@@ -50,12 +50,11 @@ const Home = () => {
           <Form.Control
             type="search"
             placeholder="Search for location"
-            className="pe-1"
+            className="pe-2"
             aria-label="Search"
-            style={{maxWidth:'380px',borderRadius:'5px'}}
-            
+            style={{maxWidth:'380px',borderRadius:'8px 0px 0px 8px',background: 'rgba(247, 247, 247, 0.1)',border: '1px solid #A3A3A3',minHeight:'50px'}}
           />
-          <Button className="btn-purple" style={{width:'200px',borderRadius:'5px'}}>Search</Button>
+          <Button className="btn-purple" style={{width:'200px',background: 'linear-gradient(90deg, #A02279 11.45%, #A02279 11.46%)',borderRadius:'0px 8px 8px 0px' }}>Search</Button>
         </Form>
       </div>
       
@@ -97,13 +96,14 @@ const Home = () => {
       {/* begin card */}
     {links.map((post)=>
       <div  key={post.id} className="col-sm-12 col-md-6 col-lg-3 mb-5 mx-auto">
-        <div class="card text-black rounded">
-          
+        <div class="card text-black" style={{maxHeight: '372px',background: 'linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%)',border: '1px solid #D7D7D7',borderRadius: '15px'}}>
           <div class="card-body">
           <img
             src={post.photo}
             class="card-img-top"
             alt="Apple Computer"
+            style={{maxHeight: '265px',border: '1px solid #D7D7D7',
+            borderRadius: '15px'}}
           />
             <div>
               <div class="d-flex justify-content-between">
