@@ -70,9 +70,9 @@ color: #000000;
 }
 
 @media(min-width : 0px) and (max-width:1000px){
- .container-flex{
+ /* .container-flex{
   display: none;
- }
+ } */
  .center{
   text-align: center;
  }
@@ -91,13 +91,19 @@ color: #000000;
    .medium-foot img{
     width: 10px !important;
    }
+   .container-flex{
+    margin-top: 100px;
+   }
 }
 
-@media (min-width : 360px) and (max-width:767px){
+@media (min-width : 0px) and (max-width:767px){
   .center .medium{
     text-align: center;
    }
    .medium img{
+    display: none;
+   }
+   .container-flex{
     display: none;
    }
   

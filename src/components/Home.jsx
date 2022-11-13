@@ -42,7 +42,7 @@ const Home = () => {
     <div>
       <div className="container mt-5 pt-3">
       <div className="row">
-        <div className="col-md-8 center">
+        <div className="col-md-6 col-lg-8 center">
         <h1 style={{fontSize: '56px', lineHeight: '140%'}}>Rent a <span style={{color:'#a02279'}}>Place</span> away from <span style={{color:'#a02279'}}>Home</span> in the <span style={{color:'#a02279'}}>Metaverse</span></h1>
         <p style={{fontSize: '24px', lineHeight: '35px'}}>we provide you access to luxury and affordable houses<br/> in the metaverse, get a chance to turn your<br/> imagination to reality at your comfort zone</p>
         <div>
@@ -61,7 +61,7 @@ const Home = () => {
       
 
     </div>
-    <div className="col-md-4">
+    <div className="col-md-6 col-lg-8">
       <div className="container-flex">
         <div className="column">
           <img className="mt-5 pt-5 column-img" src={First} alt="" style={{marginBottom:'6px'}}/>
