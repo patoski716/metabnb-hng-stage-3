@@ -5,7 +5,7 @@ import Logo from '../images/Group-1.svg'
 const Footer = () => {
   return (
     <div>
-        <section style={{background:'#1D1D1E',color:'#fff'}}>
+        <section style={{background:'#1D1D1E',color:'white'}}>
             <div className="container">
                 <div className="py-5">
                     <div className="row">
