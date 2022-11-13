@@ -95,7 +95,6 @@ const Place = () => {
                 <img src={star} alt="" className='me-2'/>
                 <img src={star} alt="" className='me-2'/>
                 <img src={star} alt="" className='me-2'/> 
-                
                 </span>
               </div>
             </div>
