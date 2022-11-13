@@ -61,7 +61,7 @@ const Home = () => {
       
 
     </div>
-    <div className="col-md-6 col-lg-8">
+    <div className="col-md-6 col-lg-4">
       <div className="container-flex">
         <div className="column">
           <img className="mt-5 pt-5 column-img" src={First} alt="" style={{marginBottom:'6px'}}/>
