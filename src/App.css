@@ -95,6 +95,7 @@ color: #000000;
    }
 }
 
+
 @media (min-width : 0px) and (max-width:767px){
   .center .medium{
     text-align: center;
