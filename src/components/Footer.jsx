@@ -17,9 +17,7 @@ const Footer = () => {
                                 <span className='mx-2 text-white'><i className="fab fa-instagram fa-3x"></i></span>
                                 <span className='mx-2 text-white'><i className="fab fa-twitter fa-3x"></i></span>
                             </div>
-                            <div style={{marginTop:"120px"}}>
-                            &copy; 2022 Metabnb
-                            </div>
+                            
                         </div>
                         <div className="col-md-6 col-lg-2  text-right" style={{marginTop:"20px"}}>
                         </div>
@@ -50,6 +48,9 @@ const Footer = () => {
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Career</p>
                             <p style={{fontWidth:'bolder',fontSize:'18px'}}>Contact us</p>
                         </div>
+                    </div>
+                    <div style={{marginTop:"10px"}}>
+                        &copy; 2022 Metabnb
                     </div>
                 </div>
             </div>
