@@ -58,6 +58,7 @@ const Header = () => {
             </div>
           </div>
 
+
           <div className="redirect text-black" style={{fontWeight:'bolder'}}>
           <img src={Walet} alt="" className='px-2' />WalletConnect
             <div className='px-5 mx-5'>
