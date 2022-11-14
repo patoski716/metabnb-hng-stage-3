@@ -103,8 +103,7 @@ const Home = () => {
             class="card-img-top"
             alt="Apple Computer"
             style={{maxHeight: '265px',border: '1px solid #D7D7D7',
-            borderRadius: '15px'}}
-          />
+            borderRadius: '15px'}}/>
             <div>
               <div class="d-flex justify-content-between">
                 <span>Desert king</span><span style={{fontWeight:"bolder"}}>1MBT per night</span>
