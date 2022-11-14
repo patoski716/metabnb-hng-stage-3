@@ -47,7 +47,7 @@ const Header = () => {
         </Modal.Header>
         <Modal.Body>
         <p style={{fontSize:'16px'}}>Choose your preferred wallet:</p>
-          <div className="redirect text-black" style={{fontWeight:'bolder'}}>
+          <div className="redirect text-black mb-3" style={{fontWeight:'bolder'}}>
           <img src={Meta} alt="" className='px-2'/> Metamask
             <div className='px-5 mx-5'>
               <div className="px-5 mx-5">

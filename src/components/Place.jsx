@@ -73,24 +73,24 @@ const Place = () => {
       {/* begin card */}
     {links.map((post)=>
       <div  key={post.id} className="col-sm-12 col-md-6 col-lg-3 mb-5 mx-auto">
-        <div class="card text-black " style={{maxHeight: '372px',background: 'linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%)',border: '1px solid #D7D7D7',borderRadius:'15px'}}>
+        <div className="card text-black " style={{maxHeight: '372px',background: 'linear-gradient(124.4deg, #FFFFFF 10.8%, #FFFFFF 87.34%)',border: '1px solid #D7D7D7',borderRadius:'15px'}}>
           
-          <div class="card-body">
+          <div className="card-body">
           <img
             src={post.photo}
-            class="card-img-top"
+            className="card-img-top"
             alt="Apple Computer"
             style={{maxHeight: '265px',border: '1px solid #D7D7D7',
             borderRadius: '15px'}}
           />
             <div>
-              <div class="d-flex justify-content-between">
+              <div className="d-flex justify-content-between">
                 <span>Desert king</span><span style={{fontWeight:"bolder"}}>1MBT per night</span>
               </div>
-              <div class="d-flex justify-content-between">
+              <div className="d-flex justify-content-between">
                 <span>2345km away</span><span>available for 2weeks stay</span>
               </div>
-              <div class="d-flex justify-content-between">
+              <div className="d-flex justify-content-between">
                 <span>
                 <img src={star} alt="" className='me-2'/>
                 <img src={star} alt="" className='me-2'/>
